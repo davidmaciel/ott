@@ -7,19 +7,10 @@
 #' @return a visNetwork object
 #' @export
 #'
-#' @examples
 explora <- function(file, filtro = c("Dá ordens para", "Trabalha com", "Fornece drogas para", "Intimo de",
                                      "protege")){
   filtro <- match.arg(filtro)
-edges <- readr::read_csv2(file,
-               col_names = F,
-               locale = locale(
-                 encoding = "ISO-8859-1"
-               )) %>%
-  dplyr::select(-X1,
-         "from" = X2,
-         "to" = X3,
-         "title" = X4) %>%
+edges <- readr::read_csv2(file) %>%
   dplyr::distinct()
 
 nodes <- dplyr::tibble(
@@ -41,7 +32,7 @@ if(!is.null(filtro)){
 
 visNetwork::visNetwork(nodes, edges, main = filtro, height = "700px", width = "100%") %>%
   visNetwork::visIgraphLayout(layout = "layout_with_fr", randomSeed = 22) %>%
-  visEdges(color = list(highlight = "darkblue", hover = "darkblue"),hoverWidth = 2, smooth = T) %>%
+  visNetwork::visEdges(color = list(highlight = "darkblue", hover = "darkblue"),hoverWidth = 2, smooth = T) %>%
   visNetwork::visOptions(highlightNearest = list(enabled = T,
                                                  degree = 1,
                                                  labelOnly = F,
