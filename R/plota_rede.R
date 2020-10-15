@@ -7,9 +7,10 @@
 #' @return a visNetwork object
 #' @export
 #'
-explora <- function(file, filtro = c("Dá ordens para", "Trabalha com", "Fornece drogas para", "Intimo de",
-                                     "protege")){
+explora <- function(file, filtro = c("Dá ordens para", "Trabalha com", "Fornece drogas para", "Íntimo de",
+                                     "Protege", "tudo", "Compra drogas de")){
   filtro <- match.arg(filtro)
+
 edges <- readr::read_csv2(file) %>%
   dplyr::distinct()
 
@@ -18,7 +19,7 @@ nodes <- dplyr::tibble(
   title = sort(paste0("<b>",unique(c(edges$from, edges$to)), "<b>"))
 
 )
-if(!is.null(filtro)){
+if(filtro != "tudo"){
   edges <- edges %>%
     dplyr::filter(title == filtro)
 }

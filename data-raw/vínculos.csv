@@ -1,247 +1,506 @@
-from;to;title
-Adamato Soares;Júlio Luiz Lopes Rodrigues;Trabalha com
-Júlio Luiz Lopes Rodrigues;Adamato Soares;Trabalha com
-Adolfo de Arruda Campos Neto;Antônio José Nicolau;Fornece drogas para
-Antônio José Nicolau;Almir Reis dos Santos;Dá ordens para
-Antônio José Nicolau;Almir Reis dos Santos;Fornece drogas para
-Antônio José Nicolau;Ângela Maria do Saturnino Braga;Fornece drogas para
-Ângela Maria do Saturnino Braga;Adamato Soares;Intimo de
-Ângela Maria do Saturnino Braga;Carlos Gonçalvez;Intimo de
-Ângela Maria do Saturnino Braga;Antônio Carlos da Cunha;Intimo de
-Adamato Soares;Ângela Maria do Saturnino Braga;Intimo de
-Carlos Gonçalvez;Ângela Maria do Saturnino Braga;Intimo de
-Antônio Carlos da Cunha;Ângela Maria do Saturnino Braga;Intimo de
-Antônio Carlos Coutinho;Darcy da Silva Filho;Trabalha com
-Darcy da Silva Filho;Antônio Carlos Coutinho;Trabalha com
-Antônio José Nicolau;Darcy da Silva Filho;Fornece drogas para
-Antônio José Nicolau;Antônio Carlos Coutinho;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Antônio Carlos Gaspar;Fornece drogas para
-Antônio Carlos Gaspar;Antônio José Nicolau;Intimo de
-Antônio José Nicolau;Antônio Carlos Gaspar;Intimo de
-Júlio Luiz Lopes Rodrigues;Antônio de Araújo Gomes;Fornece drogas para
-Gilberto de Albuquerque Giliberti;Antônio de Araújo Gomes;protege
-Armênio Erthal Teixeira;Marcus Valerius Klein;Trabalha com
-Marcus Valerius Klein;Armênio Erthal Teixeira;Trabalha com
-Armênio Erthal Teixeira;Claudomiro Martins da Silva;Trabalha com
-Claudomiro Martins da Silva;Armênio Erthal Teixeira;Trabalha com
-Arnaldo Galvão Santana;Júlio Luiz Lopes Rodrigues;protege
-Pedro Ribeiro;Arnaldo Galvão Santana;Intimo de
-Arnaldo Galvão Santana;Zacarias Gonçalves Neto;Intimo de
-Zacarias Gonçalves Neto;Arnaldo Galvão Santana;Intimo de
-Arnaldo Galvão Santana;Emilson dos Santos Fumero;Intimo de
-Emilson dos Santos Fumero;Arnaldo Galvão Santana;Intimo de
-Antônio José Nicolau;Aslan Pereira da Silva;Dá ordens para
-Aslan Pereira da Silva;Marcus Valerius Klein;Trabalha com
-Marcus Valerius Klein;Aslan Pereira da Silva;Trabalha com
-Júlio Luiz Lopes Rodrigues;Benízio de Souza Tavares;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Beto da Bandeira 2;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Beto do Fusca;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Carlinhos Caboclo;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Carlinhos Pequeno;Fornece drogas para
-Carlos Gonçalvez;Antônio José Nicolau;Intimo de
-Antônio Carlos Coutinho;Carlos Gonçalvez;Intimo de
-Antônio José Nicolau;Carlos Gonçalvez;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Célio da Birosca do Tuiutí;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Cícero Borges dos Santos;Dá ordens para
-Claudomiro Martins da Silva;Diste Antônio da Silva Neto;Trabalha com
-Diste Antônio da Silva Neto;Claudomiro Martins da Silva;Trabalha com
-Claudomiro Martins da Silva;Marcus Valerius Klein;Trabalha com
-Marcus Valerius Klein;Claudomiro Martins da Silva;Trabalha com
-Claudomiro Martins da Silva;Rogerinho Maluco;Trabalha com
-Rogerinho Maluco;Claudomiro Martins da Silva;Trabalha com
-Rogerinho Maluco;Antônio José Nicolau;Intimo de
-Antônio José Nicolau;Rogerinho Maluco;Intimo de
-Constantito Melhen Haquim;Adamato Soares;Trabalha com
-Adamato Soares;Constantito Melhen Haquim;Trabalha com
-Constantito Melhen Haquim;Roberto Carlos Alves;Trabalha com
-Roberto Carlos Alves;Constantito Melhen Haquim;Trabalha com
-Antônio José Nicolau;Constantito Melhen Haquim;Intimo de
-Constantito Melhen Haquim;Antônio José Nicolau;Intimo de
-Júlio Luiz Lopes Rodrigues;Corbil da Silva Lima;Fornece drogas para
-Dalvan da Silva;Osmar Severino;Trabalha com
-Osmar Severino;Dalvan da Silva;Trabalha com
-Antônio José Nicolau;Dalvan da Silva;Dá ordens para
-Antônio José Nicolau;Osmar Severino;Dá ordens para
-Júlio Luiz Lopes Rodrigues;Darcy da Silva Filho;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Denise Cristina Carregal Rangel;Intimo de
-Denise Cristina Carregal Rangel;Júlio Luiz Lopes Rodrigues;Intimo de
-Júlio Luiz Lopes Rodrigues;Denise Cristina Carregal Rangel;Dá ordens para
-Dirçon Aranha Chaves;Antônio José Nicolau;Intimo de
-Antônio José Nicolau;Dirçon Aranha Chaves;Intimo de
-Antônio José Nicolau;Dirçon Aranha Chaves;Fornece drogas para
-Luiz Augusto Passos Lourenço;Armênio Erthal Teixeira;Dá ordens para
-Luiz Augusto Passos Lourenço;Diste Antônio da Silva Neto;Dá ordens para
-Antônio José Nicolau;Diste Antônio da Silva Neto;Fornece drogas para
-Edílio Xavier de Oliveira;Antônio José Nicolau;Fornece drogas para
-Antônio José Nicolau;Edílio Xavier de Oliveira;Fornece drogas para
-Edson Barros Rainha;José Rainha;Intimo de
-José Rainha;Edson Barros Rainha;Intimo de
-Edson Barros Rainha;José Rainha;Trabalha com
-José Rainha;Edson Barros Rainha;Trabalha com
-Júlio Luiz Lopes Rodrigues;Edson Barros Rainha;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;José Rainha;Fornece drogas para
-Antônio José Nicolau;Edson Luiz da Fonseca;Dá ordens para
-Júlio Luiz Lopes Rodrigues;Eunice dos Santos Lemos;Dá ordens para
-Júlio Luiz Lopes Rodrigues;Eunice dos Santos Lemos;Fornece drogas para
-Fausto Silva Pereira;Luiz Augusto Passos Lourenço;protege
-Fausto Silva Pereira;Marcus Valerius Klein;protege
-Fausto Silva Pereira;Claudomiro Martins da Silva;protege
-Fausto Silva Pereira;Diste Antônio da Silva Neto;protege
-Fausto Silva Pereira;Aslan Pereira da Silva;protege
-Antônio José Nicolau;Fausto Silva Pereira;Fornece drogas para
-Antônio José Nicolau;Fernando Olinto Henriques Fernandes;Intimo de
-Fernando Olinto Henriques Fernandes;Antônio José Nicolau;Intimo de
-Júlio Luiz Lopes Rodrigues;Fernando Olinto Henriques Fernandes;Trabalha com
-Fernando Olinto Henriques Fernandes;Júlio Luiz Lopes Rodrigues;Trabalha com
-Antônio José Nicolau;Geraldo Dias dos Santos;Dá ordens para
-Júlio Luiz Lopes Rodrigues;Geraldo Dias dos Santos;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Geraldo Ferreira;Fornece drogas para
-Antônio José Nicolau;Gilberto de Albuquerque Giliberti;Dá ordens para
-Júlio Luiz Lopes Rodrigues;Gilberto Sebastião da Silva;Fornece drogas para
-Antônio José Nicolau;Gilson Avelino de Souza;Dá ordens para
-Gilson Avelino de Souza;Júlio Luiz Lopes Rodrigues;Trabalha com
-Júlio Luiz Lopes Rodrigues;Gilson Avelino de Souza;Trabalha com
-Antônio José Nicolau;Júlio Luiz Lopes Rodrigues;Dá ordens para
-Gilson Ferreira da Silva;Antônio José Nicolau;Fornece drogas para
-Mara Lúcia Leite Correa;Hermínio dos Santos Rodrigues Filho;Fornece drogas para
-Mara Lúcia Leite Correa;Denise Cristina Carregal Rangel;Intimo de
-Denise Cristina Carregal Rangel;Mara Lúcia Leite Correa;Intimo de
-Mara Lúcia Leite Correa;Denise Cristina Carregal Rangel;Trabalha com
-Denise Cristina Carregal Rangel;Mara Lúcia Leite Correa;Trabalha com
-Júlio Luiz Lopes Rodrigues;Mara Lúcia Leite Correa;Fornece drogas para
-Ilma Ramos de Moraes;Antônio José Nicolau;Intimo de
-Antônio José Nicolau;Ilma Ramos de Moraes;Intimo de
-Paulo Ramos de Morais;Ilma Ramos de Moraes;Intimo de
-Ilma Ramos de Moraes;Paulo Ramos de Morais;Intimo de
-Antônio José Nicolau;Paulo Ramos de Morais;Dá ordens para
-Júlio Luiz Lopes Rodrigues;Isaías da Costa Rodrigues;Fornece drogas para
-Mara Lúcia Leite Correa;Ivan da Costa Félix;Intimo de
-Ivan da Costa Félix;Mara Lúcia Leite Correa;Intimo de
-Júlio Luiz Lopes Rodrigues;Ivan da Costa Félix;Fornece drogas para
-Ivan da Costa Félix;Beato Salu;Intimo de
-Beato Salu;Ivan da Costa Félix;Intimo de
-Júlio Luiz Lopes Rodrigues;Ivette da Silva Santos;Fornece drogas para
-Jamil Sleiman Allan;Antônio José Nicolau;Intimo de
-Antônio Carlos Coutinho;Jamil Sleiman Allan;Intimo de
-Antônio José Nicolau;Jamil Sleiman Allan;Dá ordens para
-Antônio José Nicolau;Jorge Félix dos Santos;Dá ordens para
-Jorge Félix dos Santos;Júlio Luiz Lopes Rodrigues;protege
-Antônio José Nicolau;Jorge Luiz Alio Borges;Dá ordens para
-Jorge Luiz Alio Borges;Júlio Luiz Lopes Rodrigues;protege
-José Carlos dos Reis Encina;Paulo César dos Reis Encina;Intimo de
-Paulo César dos Reis Encina;José Carlos dos Reis Encina;Intimo de
-José Carlos dos Reis Encina;Paulo César dos Reis Encina;Trabalha com
-Paulo César dos Reis Encina;José Carlos dos Reis Encina;Trabalha com
-Antônio José Nicolau;José Carlos dos Reis Encina;Fornece drogas para
-Antônio José Nicolau;Paulo César dos Reis Encina;Fornece drogas para
-Antônio José Nicolau;José Heringer Nicolau;Intimo de
-Antônio José Nicolau;José Victor Reis dos Santos;Dá ordens para
-José Victor Reis dos Santos;Júlio Luiz Lopes Rodrigues;Trabalha com
-Júlio Luiz Lopes Rodrigues;José Victor Reis dos Santos;Trabalha com
-Antônio José Nicolau;Jurandir Gonçalves de Oliveira;Dá ordens para
-Jurandir Gonçalves de Oliveira;Sebastião Carlos Heringer;Trabalha com
-Sebastião Carlos Heringer;Jurandir Gonçalves de Oliveira;Trabalha com
-Laerte Tirado de Carvalho;Marcus Valerius Klein;protege
-Laerte Tirado de Carvalho;Claudomiro Martins da Silva;protege
-Laerte Tirado de Carvalho;Aslan Pereira da Silva;protege
-Laerte Tirado de Carvalho;Diste Antônio da Silva Neto;protege
-Antônio José Nicolau;Laerte Tirado de Carvalho;Fornece drogas para
-Antônio José Nicolau;Laerte Tirado de Carvalho;Dá ordens para
-Antônio José Nicolau;Luiz Paulo Ferreira Medrado;Dá ordens para
-Luiz Paulo Ferreira Medrado;Edson Luiz da Fonseca;Trabalha com
-Edson Luiz da Fonseca;Luiz Paulo Ferreira Medrado;Trabalha com
-Antônio Carlos Coutinho;Manoel Messias Rosa dos Santos;Dá ordens para
-Antônio José Nicolau;Manoel Messias Rosa dos Santos;Fornece drogas para
-Manoel Messias Rosa dos Santos;Júlio Luiz Lopes Rodrigues;Trabalha com
-Júlio Luiz Lopes Rodrigues;Manoel Messias Rosa dos Santos;Trabalha com
-Mara Lúcia Leite Correa;Júlio Luiz Lopes Rodrigues;Intimo de
-Júlio Luiz Lopes Rodrigues;Mara Lúcia Leite Correa;Intimo de
-Júlio Luiz Lopes Rodrigues;Mara Lúcia Leite Correa;Trabalha com
-Mara Lúcia Leite Correa;Júlio Luiz Lopes Rodrigues;Trabalha com
-Mara Lúcia Leite Correa;Jorge Negão;Fornece drogas para
-Mara Lúcia Leite Correa;Paulo da Silva;Fornece drogas para
-Mara Lúcia Leite Correa;Ivan da Costa Félix;Fornece drogas para
-Marcus Valerius Klein;Laerte Tirado de Carvalho;Trabalha com
-Laerte Tirado de Carvalho;Marcus Valerius Klein;Trabalha com
-Marcus Valerius Klein;Aslan Pereira da Silva;Intimo de
-Aslan Pereira da Silva;Marcus Valerius Klein;Intimo de
-Laerte Tirado de Carvalho;Aslan Pereira da Silva;Trabalha com
-Aslan Pereira da Silva;Laerte Tirado de Carvalho;Trabalha com
-Laerte Tirado de Carvalho;Claudomiro Martins da Silva;Trabalha com
-Claudomiro Martins da Silva;Laerte Tirado de Carvalho;Trabalha com
-Claudomiro Martins da Silva;Aslan Pereira da Silva;Trabalha com
-Aslan Pereira da Silva;Claudomiro Martins da Silva;Trabalha com
-Luiz Augusto Passos Lourenço;Marcus Valerius Klein;Dá ordens para
-Luiz Augusto Passos Lourenço;Claudomiro Martins da Silva;Dá ordens para
-Luiz Augusto Passos Lourenço;Laerte Tirado de Carvalho;Dá ordens para
-Luiz Augusto Passos Lourenço;Aslan Pereira da Silva;Dá ordens para
-Antônio José Nicolau;Luiz Augusto Passos Lourenço;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Marli Prado Ferreira;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Metal;Fornece drogas para
-Antônio José Nicolau;Mussi José Nicolau;Dá ordens para
-Mussi José Nicolau;Antônio José Nicolau;Intimo de
-Antônio José Nicolau;Mussi José Nicolau;Intimo de
-Olgacir Alves Spencer;Antônio José Nicolau;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Parrão;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Paulinho Kung Fu;Fornece drogas para
-Paulo Arino Rossati Sanches;Antônio José Nicolau;Fornece drogas para
-Paulo César dos Reis Encina;Antônio José Nicolau;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Paulo Martins Xavier;Fornece drogas para
-Ivan da Costa Félix;Paulo Roberto da Cruz;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Paulo Roberto Faria;Fornece drogas para
-Paulo Roque da Silva;Júlio Luiz Lopes Rodrigues;protege
-Paulo Roque da Silva;Corbil da Silva Lima;Intimo de
-Corbil da Silva Lima;Paulo Roque da Silva;Intimo de
-Antônio José Nicolau;Pedro Jardelino Neto;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Pedro Ribeiro;Fornece drogas para
-Pedro Rodrigues Pereira;Paulo Roberto da Cruz;Dá ordens para
-Antônio José Nicolau;Primo Samuel de Carvalho;Dá ordens para
-Roberto Carlos Alves;Júlio Luiz Lopes Rodrigues;protege
-Roberto Carlos Alves;Luiz Augusto Passos Lourenço;protege
-Roberto Carlos Alves;Adamato Soares;Trabalha com
-Júlio Luiz Lopes Rodrigues;Ronal;Fornece drogas para
-Sebastião Carlos Heringer;Antônio José Nicolau;Intimo de
-Antônio Carlos Coutinho;Sebastião Carlos Heringer;Intimo de
-Antônio José Nicolau;Sebastião Carlos Heringer;Dá ordens para
-Sebastião Carlos Heringer;Aslan Pereira da Silva;Trabalha com
-Aslan Pereira da Silva;Sebastião Carlos Heringer;Trabalha com
-Rogerinho Maluco;Sebastião Carlos Heringer;Trabalha com
-Sebastião Carlos Heringer;Rogerinho Maluco;Trabalha com
-Sebastião Carlos Heringer;Claudomiro Martins da Silva;Trabalha com
-Claudomiro Martins da Silva;Sebastião Carlos Heringer;Trabalha com
-Sebastião Carlos Heringer;Osmar Severino;Trabalha com
-Osmar Severino;Sebastião Carlos Heringer;Trabalha com
-Sebastião Carlos Heringer;Constantito Melhen Haquim;Trabalha com
-Constantito Melhen Haquim;Sebastião Carlos Heringer;Trabalha com
-Antônio Carlos Coutinho;Sérgio Moura Soares;Dá ordens para
-Júlio Luiz Lopes Rodrigues;Valdeci Borges dos Santos;Dá ordens para
-Júlio Luiz Lopes Rodrigues;Manoel Messias Rosa dos Santos;Dá ordens para
-Valdeci Borges dos Santos;Cícero Borges dos Santos;Intimo de
-Cícero Borges dos Santos;Valdeci Borges dos Santos;Intimo de
-Valdeci Borges dos Santos;Cícero Borges dos Santos;Trabalha com
-Cícero Borges dos Santos;Valdeci Borges dos Santos;Trabalha com
-Manoel Messias Rosa dos Santos;Valdeci Borges dos Santos;Trabalha com
-Valdeci Borges dos Santos;Manoel Messias Rosa dos Santos;Trabalha com
-Manoel Messias Rosa dos Santos;Cícero Borges dos Santos;Trabalha com
-Cícero Borges dos Santos;Manoel Messias Rosa dos Santos;Trabalha com
-Luiz Augusto Passos Lourenço;Valter José Maria;Fornece drogas para
-Waldelira Pereira da Silva;José Victor Reis dos Santos;Intimo de
-José Victor Reis dos Santos;Waldelira Pereira da Silva;Intimo de
-Antônio José Nicolau;Waldemar de Souza Araújo;Dá ordens para
-Waldemar de Souza Araújo;Adamato Soares;Trabalha com
-Adamato Soares;Waldemar de Souza Araújo;Trabalha com
-Waldemar de Souza Araújo;Osmar Severino;Trabalha com
-Osmar Severino;Waldemar de Souza Araújo;Trabalha com
-Waldemar de Souza Araújo;Gilberto de Albuquerque Giliberti;Trabalha com
-Gilberto de Albuquerque Giliberti;Waldemar de Souza Araújo;Trabalha com
-Gilberto de Albuquerque Giliberti;Adamato Soares;Trabalha com
-Adamato Soares;Gilberto de Albuquerque Giliberti;Trabalha com
-Gilberto de Albuquerque Giliberti;Osmar Severino;Trabalha com
-Osmar Severino;Gilberto de Albuquerque Giliberti;Trabalha com
-Adamato Soares;Osmar Severino;Trabalha com
-Osmar Severino;Adamato Soares;Trabalha com
-Antônio José Nicolau;Waldyr Paiva Carneiro;Dá ordens para
-Waldyr Paiva Carneiro;Antônio José Nicolau;protege
-Júlio Luiz Lopes Rodrigues;Zacarias Gonçalves Neto;Fornece drogas para
-Júlio Luiz Lopes Rodrigues;Emilson dos Santos Fumero;Fornece drogas para
-Antônio José Nicolau;Adamato Soares;Dá ordens para
+"from";"to";"relacao"
+"Luiz Augusto Passos Lourenço";"Rogério Heringer Nicolau";"Dá ordens para"
+"Rogério Heringer Nicolau";"Marcus Valerius Klein";"Trabalha com"
+"Marcus Valerius Klein";"Rogério Heringer Nicolau";"Trabalha com"
+"Rogério Heringer Nicolau";"Claudomiro Martins da Silva";"Trabalha com"
+"Claudomiro Martins da Silva";"Rogério Heringer Nicolau";"Trabalha com"
+"Diste Antônio da Silva Neto";"Rogério Heringer Nicolau";"Trabalha com"
+"Rogério Heringer Nicolau";"Diste Antônio da Silva Neto";"Trabalha com"
+"Laerte Tirado de Carvalho";"Rogério Heringer Nicolau";"Trabalha com"
+"Rogério Heringer Nicolau";"Laerte Tirado de Carvalho";"Trabalha com"
+"Antônio José Nicolau";"Sílvio Ferreira Filho";"Dá ordens para"
+"Sílvio Ferreira Filho";"Júlio Luiz Lopes Rodrigues";"Trabalha com"
+"Amós Martins Belém";"Luiz Augusto Passos Lourenço";"Protege"
+"Antônio José Nicolau";"Amós Martins Belém";"Dá ordens para"
+"Alcides Dellacrode";"Antônio José Nicolau";"Íntimo de"
+"Antônio José Nicolau";"Alcides Dellacrode";"Íntimo de"
+"Júlio Luiz Lopes Rodrigues";"Alcides Dellacrode";"Fornece drogas para"
+"Antônio José Nicolau";"Ayres Moreira";"Dá ordens para"
+"Antônio José Nicolau";"Carlos Alberto Ferreira Guimarães";"Dá ordens para"
+"Carlos Alberto Ferreira Guimarães";"Júlio Luiz Lopes Rodrigues";"Trabalha com"
+"Júlio Luiz Lopes Rodrigues";"Carlos Alberto Ferreira Guimarães";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Eucir Barbosa Cordeiro";"Fornece drogas para"
+"Gilson Avelino de Souza";"Genilson Avelino de Souza";"Íntimo de"
+"Genilson Avelino de Souza";"Gilson Avelino de Souza";"Íntimo de"
+"Júlio Luiz Lopes Rodrigues";"Genilson Avelino de Souza";"Dá ordens para"
+"Luiz Augusto Passos Lourenço";"Jorge Carpinteiro Santiago";"Fornece drogas para"
+"Antônio José Nicolau";"Luiz Carlos de Souza Batista";"Dá ordens para"
+"Luiz Carlos de Souza Batista";"Luiz Augusto Passos Lourenço";"Protege"
+"Antônio José Nicolau";"Roberto Lopes de Oliveira";"Dá ordens para"
+"Roberto Lopes de Oliveira";"Júlio Luiz Lopes Rodrigues";"Protege"
+"Fausto Silva Pereira";"Moshe Holender";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Moshe Holender";"Fornece drogas para"
+"Darcy da Silva Filho";"Napoleão";"Dá ordens para"
+"Napoleão";"Antônio Carlos Coutinho";"Trabalha com"
+"Antônio Carlos Coutinho";"Napoleão";"Trabalha com"
+"Antônio Carlos Gaspar";"Napoleão";"Trabalha com"
+"Napoleão";"Antônio Carlos Gaspar";"Trabalha com"
+"Ayres Moreira";"Márcia";"Dá ordens para"
+"Ayres Moreira";"Palacete";"Dá ordens para"
+"Antônio José Nicolau";"Marcílio Ribeiro Cordeiro";"Dá ordens para"
+"Marcílio Ribeiro Cordeiro";"Júlio Luiz Lopes Rodrigues";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Marcílio Ribeiro Cordeiro";"Fornece drogas para"
+"Antônio José Nicolau";"João Vicente Ferreira";"Dá ordens para"
+"João Vicente Ferreira";"Edson Luiz da Fonseca";"Protege"
+"João Vicente Ferreira";"Luiz Paulo Ferreira Medrado";"Protege"
+"Osmar Severino";"Dalvan da Silva";"Trabalha com"
+"Antônio José Nicolau";"Osmar Severino";"Dá ordens para"
+"Dalvan da Silva";"Luiz Augusto Passos Lourenço";"Fornece drogas para"
+"Dalvan da Silva";"Júlio Luiz Lopes Rodrigues";"Fornece drogas para"
+"Dalvan da Silva";"Ayres Moreira";"Fornece drogas para"
+"Osmar Severino";"Júlio Luiz Lopes Rodrigues";"Fornece drogas para"
+"Osmar Severino";"Luiz Augusto Passos Lourenço";"Fornece drogas para"
+"Osmar Severino";"Ayres Moreira";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Dalvan da Silva";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Osmar Severino";"Fornece drogas para"
+"Darcy da Silva Filho";"Antônio Carlos Coutinho";"Dá ordens para"
+"Darcy da Silva Filho";"Antônio Carlos Gaspar";"Dá ordens para"
+"Darcy da Silva Filho";"Napoleão";"Dá ordens para"
+"Antônio Carlos Coutinho";"Antônio Carlos Gaspar";"Trabalha com"
+"Antônio Carlos Coutinho";"Napoleão";"Trabalha com"
+"Antônio Carlos Gaspar";"Antônio Carlos Coutinho";"Trabalha com"
+"Antônio Carlos Gaspar";"Napoleão";"Trabalha com"
+"Júlio Luiz Lopes Rodrigues";"Denise Cristina Carregal Rangel";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Denise Cristina Carregal Rangel";"Íntimo de"
+"Denise Cristina Carregal Rangel";"Júlio Luiz Lopes Rodrigues";"Íntimo de"
+"Luiz Paulo Ferreira Medrado";"Diste Antônio da Silva Neto";"Dá ordens para"
+"Edílio Xavier de Oliveira";"Luiz Paulo Ferreira Medrado";"Fornece drogas para"
+"Edílio Xavier de Oliveira";"Edson Luiz da Fonseca";"Fornece drogas para"
+"Edson Barros Rainha";"José Rainha";"Trabalha com"
+"José Rainha";"Edson Barros Rainha";"Trabalha com"
+"Antônio José Nicolau";"Edson Luiz da Fonseca";"Dá ordens para"
+"Edson Luiz da Fonseca";"Júlio Luiz Lopes Rodrigues";"Fornece drogas para"
+"Edson Luiz da Fonseca";"Luiz Paulo Ferreira Medrado";"Trabalha com"
+"Luiz Paulo Ferreira Medrado";"Edson Barros Rainha";"Trabalha com"
+"Júlio Luiz Lopes Rodrigues";"Eunice dos Santos Lemos";"Fornece drogas para"
+"Antônio José Nicolau";"Fausto Silva Pereira";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Fausto Silva Pereira";"Fornece drogas para"
+"Fausto Silva Pereira";"Luiz Augusto Passos Lourenço";"Protege"
+"Fausto Silva Pereira";"Aslan Pereira da Silva";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Fernando Olinto Henriques Fernandes";"Dá ordens para"
+"Antônio José Nicolau";"Geraldo Dias dos Santos";"Dá ordens para"
+"Geraldo Dias dos Santos";"Luiz Augusto Passos Lourenço";"Protege"
+"Júlio Luiz Lopes Rodrigues";"Geraldo Ferreira";"Fornece drogas para"
+"Antônio José Nicolau";"Gilberto de Albuquerque Giliberti";"Dá ordens para"
+"Gilberto de Albuquerque Giliberti";"Luiz Augusto Passos Lourenço";"Protege"
+"Gilberto de Albuquerque Giliberti";"Ayres Moreira";"Protege"
+"Gilberto de Albuquerque Giliberti";"Júlio Luiz Lopes Rodrigues";"Protege"
+"Júlio Luiz Lopes Rodrigues";"Gilberto Sebastião da Silva";"Fornece drogas para"
+"Gilson Avelino de Souza";"Júlio Luiz Lopes Rodrigues";"Protege"
+"Gilson Avelino de Souza";"Roberto Carlos Alves";"Trabalha com"
+"Roberto Carlos Alves";"Gilson Avelino de Souza";"Trabalha com"
+"Gilson Ferreira da Silva";"Edson Luiz da Fonseca";"Fornece drogas para"
+"Gilson Ferreira da Silva";"Luiz Paulo Ferreira Medrado";"Fornece drogas para"
+"Paulo da Silva";"Hermínio dos Santos Rodrigues Filho";"Íntimo de"
+"Mara Lúcia Leite Correa";"Hermínio dos Santos Rodrigues Filho";"Fornece drogas para"
+"Antônio José Nicolau";"Ilma Ramos de Moraes";"Íntimo de"
+"Ilma Ramos de Moraes";"Antônio José Nicolau";"Íntimo de"
+"Antônio José Nicolau";"Ilma Ramos de Moraes";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Isaías da Costa Rodrigues";"Fornece drogas para"
+"Mara Lúcia Leite Correa";"Ivan da Costa Félix";"Íntimo de"
+"Ivan da Costa Félix";"Mara Lúcia Leite Correa";"Íntimo de"
+"Ivan da Costa Félix";"Paulo Roberto da Cruz";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Ivette da Silva Santos";"Fornece drogas para"
+"Antônio José Nicolau";"Jamil Sleiman Allan";"Íntimo de"
+"Jamil Sleiman Allan";"Antônio José Nicolau";"Íntimo de"
+"Antônio José Nicolau";"Jamil Sleiman Allan";"Dá ordens para"
+"Antônio José Nicolau";"Jorge Félix dos Santos";"Dá ordens para"
+"Jorge Félix dos Santos";"Júlio Luiz Lopes Rodrigues";"Protege"
+"Luiz Augusto Passos Lourenço";"Claudomiro Martins da Silva";"Dá ordens para"
+"Luiz Augusto Passos Lourenço";"Marcus Valerius Klein";"Dá ordens para"
+"Luiz Augusto Passos Lourenço";"Diste Antônio da Silva Neto";"Dá ordens para"
+"Luiz Augusto Passos Lourenço";"Laerte Tirado de Carvalho";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Luiz Augusto Passos Lourenço";"Fornece drogas para"
+"Antônio José Nicolau";"Luiz Augusto Passos Lourenço";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Jorge Ferreira de Almeida";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Jorge Ferreira de Almeida";"Fornece drogas para"
+"Jorge Luiz Alio Borges";"Júlio Luiz Lopes Rodrigues";"Protege"
+"Antônio José Nicolau";"Jorge Luiz Alio Borges";"Dá ordens para"
+"Marcos Peixoto de Athayde";"José Carlos dos Reis Encina";"Fornece drogas para"
+"José Carlos dos Reis Encina";"Marcos Peixoto de Athayde";"Fornece drogas para"
+"Marcos Peixoto de Athayde";"Júlio Luiz Lopes Rodrigues";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Marcos Peixoto de Athayde";"Fornece drogas para"
+"José Carlos dos Reis Encina";"Paulo César dos Reis Encina";"Trabalha com"
+"Paulo César dos Reis Encina";"José Carlos dos Reis Encina";"Trabalha com"
+"Antônio José Nicolau";"José Heringer Nicolau";"Íntimo de"
+"Antônio José Nicolau";"José Heringer Nicolau";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"José Victor Reis dos Santos";"Dá ordens para"
+"Antônio José Nicolau";"José Victor Reis dos Santos";"Íntimo de"
+"Antônio José Nicolau";"Juarez Calvelli";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Juarez Calvelli";"Fornece drogas para"
+"Juarez Calvelli";"Edson Barros Rainha";"Fornece drogas para"
+"Juarez Calvelli";"José Rainha";"Fornece drogas para"
+"Juarez Calvelli";"Edson Barros Rainha";"Íntimo de"
+"Antônio José Nicolau";"Júlio Luiz Lopes Rodrigues";"Dá ordens para"
+"Antônio José Nicolau";"Júlio Luiz Lopes Rodrigues";"Íntimo de"
+"Júlio Luiz Lopes Rodrigues";"Antônio José Nicolau";"Íntimo de"
+"Júlio Luiz Lopes Rodrigues";"Manoel Messias Rosa dos Santos";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Denise Cristina Carregal Rangel";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Osmar Severino";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Dalvan da Silva";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Jamil Sleiman Allan";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Sebastião Carlos Heringer";"Fornece drogas para"
+"Sebastião Carlos Heringer";"Júlio Luiz Lopes Rodrigues";"Fornece drogas para"
+"Sebastião Carlos Heringer";"Jurandir Gonçalves de Oliveira";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Jurandir Gonçalves de Oliveira";"Fornece drogas para"
+"Jurandir Gonçalves de Oliveira";"Júlio Luiz Lopes Rodrigues";"Fornece drogas para"
+"Osmar Severino";"Jurandir Gonçalves de Oliveira";"Fornece drogas para"
+"Dalvan da Silva";"Jurandir Gonçalves de Oliveira";"Fornece drogas para"
+"Jurandir Gonçalves de Oliveira";"Osmar Severino";"Fornece drogas para"
+"Jurandir Gonçalves de Oliveira";"Dalvan da Silva";"Fornece drogas para"
+"Luiz Augusto Passos Lourenço";"Laerte Tirado de Carvalho";"Dá ordens para"
+"Luiz Paulo Ferreira Medrado";"Júlio Luiz Lopes Rodrigues";"Fornece drogas para"
+"Antônio José Nicolau";"Luiz Paulo Ferreira Medrado";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Luiz Ronaldo da Silva";"Fornece drogas para"
+"Luiz Ronaldo da Silva";"Antônio José Nicolau";"Íntimo de"
+"Antônio José Nicolau";"Luiz Ronaldo da Silva";"Íntimo de"
+"Júlio Luiz Lopes Rodrigues";"Luiz Ronaldo da Silva";"Íntimo de"
+"Luiz Ronaldo da Silva";"Júlio Luiz Lopes Rodrigues";"Íntimo de"
+"Denise Cristina Carregal Rangel";"Mara Lúcia Leite Correa";"Trabalha com"
+"Mara Lúcia Leite Correa";"Denise Cristina Carregal Rangel";"Trabalha com"
+"Denise Cristina Carregal Rangel";"Mara Lúcia Leite Correa";"Íntimo de"
+"Mara Lúcia Leite Correa";"Denise Cristina Carregal Rangel";"Íntimo de"
+"Júlio Luiz Lopes Rodrigues";"Mara Lúcia Leite Correa";"Fornece drogas para"
+"Mara Lúcia Leite Correa";"Hermínio dos Santos Rodrigues Filho";"Fornece drogas para"
+"Mara Lúcia Leite Correa";"Paulo da Silva";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Marli Prado Ferreira";"Fornece drogas para"
+"Marli Prado Ferreira";"Mara Lúcia Leite Correa";"Íntimo de"
+"Mara Lúcia Leite Correa";"Marli Prado Ferreira";"Íntimo de"
+"Júlio Luiz Lopes Rodrigues";"Vanderley Metal";"Fornece drogas para"
+"Vanderley Metal";"Meio Quilo";"Fornece drogas para"
+"Antônio José Nicolau";"Mussi José Nicolau";"Íntimo de"
+"Mussi José Nicolau";"Antônio José Nicolau";"Íntimo de"
+"Antônio José Nicolau";"Mussi José Nicolau";"Dá ordens para"
+"Mussi José Nicolau";"Antônio José Nicolau";"Protege"
+"Nagib Raad Restum";"Antônio José Nicolau";"Íntimo de"
+"Antônio José Nicolau";"Nagib Raad Restum";"Íntimo de"
+"Nagib Raad Restum";"Antônio José Nicolau";"Protege"
+"Júlio Luiz Lopes Rodrigues";"Nagib Raad Restum";"Íntimo de"
+"Waldir Pepe Simões";"Júlio Luiz Lopes Rodrigues";"Protege"
+"Antônio José Nicolau";"Waldir Pepe Simões";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Bigode";"Dá ordens para"
+"Bigode";"Júlio Luiz Lopes Rodrigues";"Trabalha com"
+"Antônio José Nicolau";"Bigode";"Dá ordens para"
+"Antônio José Nicolau";"Paulo Bernandes da Cunha";"Dá ordens para"
+"Paulo Bernandes da Cunha";"Antônio José Nicolau";"Protege"
+"Maria dos Olhos Verdes";"Valter José Maria";"Íntimo de"
+"Valter José Maria";"Maria dos Olhos Verdes";"Íntimo de"
+"Júlio Luiz Lopes Rodrigues";"Maria dos Olhos Verdes";"Fornece drogas para"
+"Antônio José Nicolau";"Sam - Barrão";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Carlos Augusto Matos de Medeiros";"Fornece drogas para"
+"Carlos Augusto Matos de Medeiros";"Luiz Augusto Passos Lourenço";"Protege"
+"Júlio Luiz Lopes Rodrigues";"Amilcar";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Alcindo";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Antônio Pará";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Batata";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Carlinho Nequinho";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Caixote";"Fornece drogas para"
+"Antônio José Nicolau";"Dirceu";"Dá ordens para"
+"Dirceu";"Antônio José Nicolau";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Dirceu";"Dá ordens para"
+"Valter José Maria";"Jorge Silva";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Jorge Silva";"Fornece drogas para"
+"Jorge Silva";"Valter José Maria";"Fornece drogas para"
+"João";"Luiz Paulo Ferreira Medrado";"Fornece drogas para"
+"João";"Edson Luiz da Fonseca";"Fornece drogas para"
+"Luiz Augusto Passos Lourenço";"Lorival";"Fornece drogas para"
+"Miranda";"Edson Luiz da Fonseca";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Pedro de água santa";"Fornece drogas para"
+"Pedro de Ponta Porã";"Edson Luiz da Fonseca";"Fornece drogas para"
+"Pedro de Ponta Porã";"Luiz Paulo Ferreira Medrado";"Fornece drogas para"
+"Paulinho Kung Fu";"Ronaldo";"Trabalha com"
+"Ronaldo";"Paulinho Kung Fu";"Trabalha com"
+"Beto da Bandeira 2";"Ronaldo";"Trabalha com"
+"Beto da Bandeira 2";"Ronaldo";"Trabalha com"
+"Júlio Luiz Lopes Rodrigues";"Tonho";"Fornece drogas para"
+"Tonho";"Caixote";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Nagib Raad Restum";"Trabalha com"
+"Olgacir Alves Spencer";"Luiz Paulo Ferreira Medrado";"Fornece drogas para"
+"Olgacir Alves Spencer";"Edson Luiz da Fonseca";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Parrão";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Paulinho Kung Fu";"Fornece drogas para"
+"Beto da Bandeira 2";"Paulinho Kung Fu";"Trabalha com"
+"Paulinho Kung Fu";"Beto da Bandeira 2";"Trabalha com"
+"Júlio Luiz Lopes Rodrigues";"Paulo Arino Rossati Sanches";"Fornece drogas para"
+"Marcos Peixoto de Athayde";"Paulo César dos Reis Encina";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Paulo Martins Xavier";"Fornece drogas para"
+"Paulo Ramos de Morais";"Antônio José Nicolau";"Protege"
+"Antônio José Nicolau";"Paulo Ramos de Morais";"Dá ordens para"
+"Paulo Ramos de Morais";"Luiz Augusto Passos Lourenço";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Paulo Ramos de Morais";"Fornece drogas para"
+"Paulo Ramos de Morais";"Ayres Moreira";"Fornece drogas para"
+"Paulo Ramos de Morais";"Jamil Sleiman Allan";"Fornece drogas para"
+"Pedro Rodrigues Pereira";"Paulo Roberto da Cruz";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Pedro Rodrigues Pereira";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Paulo Roberto da Cruz";"Fornece drogas para"
+"Luiz Augusto Passos Lourenço";"Paulo Roberto Faria";"Fornece drogas para"
+"Paulo Roque da Silva";"Júlio Luiz Lopes Rodrigues";"Protege"
+"Antônio José Nicolau";"Paulo Roque da Silva";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Pedro Jardelino Neto";"Fornece drogas para"
+"Pedro Ribeiro";"Zacarias Gonçalves Neto";"Trabalha com"
+"Zacarias Gonçalves Neto";"Pedro Ribeiro";"Trabalha com"
+"Emilson dos Santos Fumero";"Zacarias Gonçalves Neto";"Trabalha com"
+"Zacarias Gonçalves Neto";"Emilson dos Santos Fumero";"Trabalha com"
+"Emilson dos Santos Fumero";"Pedro Ribeiro";"Trabalha com"
+"Pedro Ribeiro";"Emilson dos Santos Fumero";"Trabalha com"
+"Antônio José Nicolau";"Roberto Carlos Alves";"Dá ordens para"
+"Roberto Carlos Alves";"Júlio Luiz Lopes Rodrigues";"Protege"
+"Roberto Carlos Alves";"Sebastião Carlos Heringer";"Protege"
+"Antônio José Nicolau";"Sebastião Carlos Heringer";"Dá ordens para"
+"Antônio José Nicolau";"Sebastião Carlos Heringer";"Íntimo de"
+"Sebastião Carlos Heringer";"José Victor Reis dos Santos";"Dá ordens para"
+"Sebastião Carlos Heringer";"Jamil Sleiman Allan";"Trabalha com"
+"Jamil Sleiman Allan";"Sebastião Carlos Heringer";"Trabalha com"
+"Antônio José Nicolau";"Sérgio Moura Soares";"Dá ordens para"
+"Sérgio Moura Soares";"Antônio José Nicolau";"Protege"
+"Sérgio Moura Soares";"Júlio Luiz Lopes Rodrigues";"Protege"
+"Edson Luiz da Fonseca";"Antônio José Nicolau";"Protege"
+"Luiz Paulo Ferreira Medrado";"Antônio José Nicolau";"Protege"
+"Júlio Luiz Lopes Rodrigues";"Valdeci Borges dos Santos";"Dá ordens para"
+"Valdeci Borges dos Santos";"Manoel Messias Rosa dos Santos";"Íntimo de"
+"Manoel Messias Rosa dos Santos";"Valdeci Borges dos Santos";"Íntimo de"
+"Valdeci Borges dos Santos";"Manoel Messias Rosa dos Santos";"Trabalha com"
+"Manoel Messias Rosa dos Santos";"Valdeci Borges dos Santos";"Trabalha com"
+"Luiz Augusto Passos Lourenço";"Valter José Maria";"Fornece drogas para"
+"Antônio José Nicolau";"Waldemar de Souza Araújo";"Dá ordens para"
+"Waldemar de Souza Araújo";"Antônio José Nicolau";"Protege"
+"Adamato Soares";"Antônio José Nicolau";"Protege"
+"Adamato Soares";"Waldemar de Souza Araújo";"Trabalha com"
+"Waldemar de Souza Araújo";"Adamato Soares";"Trabalha com"
+"Waldemar de Souza Araújo";"Gilberto de Albuquerque Giliberti";"Trabalha com"
+"Gilberto de Albuquerque Giliberti";"Waldemar de Souza Araújo";"Trabalha com"
+"Antônio José Nicolau";"Waldyr Paiva Carneiro";"Dá ordens para"
+"Waldyr Paiva Carneiro";"Antônio José Nicolau";"Protege"
+"Júlio Luiz Lopes Rodrigues";"Emilson dos Santos Fumero";"Fornece drogas para"
+"Arnaldo Galvão Santana";"Pedro Ribeiro";"Protege"
+"Arnaldo Galvão Santana";"Zacarias Gonçalves Neto";"Protege"
+"Arnaldo Galvão Santana";"Emilson dos Santos Fumero";"Protege"
+"Amós Martins Belém";"Luiz Augusto Passos Lourenço";"Protege"
+"Antônio José Nicolau";"Amós Martins Belém";"Dá ordens para"
+"Ângela Maria do Saturnino Braga";"Luiz Carlos Rodrigues da Costa";"Trabalha com"
+"Ângela Maria do Saturnino Braga";"Pica Pau";"Fornece drogas para"
+"Luiz Carlos Rodrigues da Costa";"Ângela Maria do Saturnino Braga";"Íntimo de"
+"Luiz Carlos Rodrigues da Costa";"Ângela Maria do Saturnino Braga";"Trabalha com"
+"Luiz Carlos Rodrigues da Costa";"Pica Pau";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Ângela Maria do Saturnino Braga";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Luiz Carlos Rodrigues da Costa";"Fornece drogas para"
+"Ângela Maria do Saturnino Braga";"Gilberto de Albuquerque Giliberti";"Íntimo de"
+"Gilberto de Albuquerque Giliberti";"Ângela Maria do Saturnino Braga";"Íntimo de"
+"Darcy da Silva Filho";"Antônio Carlos Coutinho";"Dá ordens para"
+"Antônio Carlos da Cunha";"Luiz Paulo Ferreira Medrado";"Fornece drogas para"
+"Antônio Carlos da Cunha";"Edson Luiz da Fonseca";"Fornece drogas para"
+"Darcy da Silva Filho";"Antônio Carlos Gaspar";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Ayres Moreira";"Fornece drogas para"
+"Ayres Moreira";"Armênio Erthal Teixeira";"Dá ordens para"
+"Antônio José Nicolau";"Ayres Moreira";"Dá ordens para"
+"Darcy da Silva Filho";"Antônio Carlos Coutinho";"Dá ordens para"
+"Antônio Carlos da Cunha";"Edson Luiz da Fonseca";"Fornece drogas para"
+"Antônio Carlos da Cunha";"Luiz Paulo Ferreira Medrado";"Fornece drogas para"
+"Darcy da Silva Filho";"Antônio Carlos Gaspar";"Dá ordens para"
+"Arnaldo Galvão Santana";"Júlio Luiz Lopes Rodrigues";"Protege"
+"Arnaldo Galvão Santana";"Zacarias Gonçalves Neto";"Protege"
+"Fausto Silva Pereira";"Aslan Pereira da Silva";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Benízio de Souza Tavares";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Beto da Bandeira 2";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Beto do Fusca";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Carlinhos Caboclo";"Fornece drogas para"
+"Carlinhos Caboclo";"Antônio de Araújo Gomes";"Dá ordens para"
+"Júlio Luiz Lopes Rodrigues";"Carlinhos Pequeno";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Carlos Gonçalvez";"Fornece drogas para"
+"Hermínio dos Santos Rodrigues Filho";"Célio da Birosca do Tuiutí";"Íntimo de"
+"Célio da Birosca do Tuiutí";"Hermínio dos Santos Rodrigues Filho";"Íntimo de"
+"Júlio Luiz Lopes Rodrigues";"Cícero Borges dos Santos";"Dá ordens para"
+"Luiz Augusto Passos Lourenço";"Claudomiro Martins da Silva";"Dá ordens para"
+"Claudomiro Martins da Silva";"Marcus Valerius Klein";"Trabalha com"
+"Claudomiro Martins da Silva";"Diste Antônio da Silva Neto";"Trabalha com"
+"Claudomiro Martins da Silva";"Laerte Tirado de Carvalho";"Trabalha com"
+"Constantito Melhen Haquim";"Luiz Augusto Passos Lourenço";"Protege"
+"Antônio José Nicolau";"Constantito Melhen Haquim";"Dá ordens para"
+"Antônio José Nicolau";"Adamato Soares";"Dá ordens para"
+"Adamato Soares";"Júlio Luiz Lopes Rodrigues";"Protege"
+"Adolfo de Arruda Campos Neto";"Luiz Paulo Ferreira Medrado";"Fornece drogas para"
+"Adolfo de Arruda Campos Neto";"Edson Luiz da Fonseca";"Fornece drogas para"
+"Antônio José Nicolau";"Almir Reis dos Santos";"Dá ordens para"
+"Almir Reis dos Santos";"preso desconhecido";"Fornece drogas para"
+"Almir Reis dos Santos";"Luiz Augusto Passos Lourenço";"Protege"
+"Ângela Maria do Saturnino Braga";"Luiz Carlos Rodrigues da Costa";"Íntimo de"
+"Constantito Melhen Haquim";"Adamato Soares";"Trabalha com"
+"Adamato Soares";"Constantito Melhen Haquim";"Trabalha com"
+"Roberto Carlos Alves";"Constantito Melhen Haquim";"Trabalha com"
+"Constantito Melhen Haquim";"Roberto Carlos Alves";"Trabalha com"
+"Júlio Luiz Lopes Rodrigues";"Corbil da Silva Lima";"Fornece drogas para"
+"Antônio José Nicolau";"Dalvan da Silva";"Dá ordens para"
+"Antônio José Nicolau";"Rogério Heringer Nicolau";"Íntimo de"
+"Antônio José Nicolau";"Adolfo de Arruda Campos Neto";"Compra drogas de"
+"Antônio José Nicolau";"Antônio Carlos da Cunha";"Compra drogas de"
+"Antônio José Nicolau";"Edílio Xavier de Oliveira";"Compra drogas de"
+"Antônio José Nicolau";"Gilson Ferreira da Silva";"Compra drogas de"
+"Antônio José Nicolau";"Miranda";"Compra drogas de"
+"Antônio José Nicolau";"Olgacir Alves Spencer";"Compra drogas de"
+"Antônio José Nicolau";"Pedro de Ponta Porã";"Compra drogas de"
+"Antônio José Nicolau";"João";"Compra drogas de"
+"Alcides Dellacrode";"Antônio José Nicolau";"Compra drogas de"
+"Valter José Maria";"Antônio José Nicolau";"Compra drogas de"
+"Luiz Carlos Rodrigues da Costa";"Antônio José Nicolau";"Compra drogas de"
+"Luiz Ronaldo da Silva";"Antônio José Nicolau";"Compra drogas de"
+"Mara Lúcia Leite Correa";"Antônio José Nicolau";"Compra drogas de"
+"José Carlos dos Reis Encina";"Antônio José Nicolau";"Compra drogas de"
+"Paulo César dos Reis Encina";"Antônio José Nicolau";"Compra drogas de"
+"Moshe Holender";"Antônio José Nicolau";"Compra drogas de"
+"Parrão";"Antônio José Nicolau";"Compra drogas de"
+"Paulinho Kung Fu";"Antônio José Nicolau";"Compra drogas de"
+"Paulo Martins Xavier";"Antônio José Nicolau";"Compra drogas de"
+"Paulo Roberto da Cruz";"Antônio José Nicolau";"Compra drogas de"
+"Pedro de água santa";"Antônio José Nicolau";"Compra drogas de"
+"Pedro Jardelino Neto";"Antônio José Nicolau";"Compra drogas de"
+"Pedro Rodrigues Pereira";"Antônio José Nicolau";"Compra drogas de"
+"Tonho";"Antônio José Nicolau";"Compra drogas de"
+"Vanderley Metal";"Antônio José Nicolau";"Compra drogas de"
+"Ângela Maria do Saturnino Braga";"Antônio José Nicolau";"Compra drogas de"
+"Batata";"Antônio José Nicolau";"Compra drogas de"
+"Benízio de Souza Tavares";"Antônio José Nicolau";"Compra drogas de"
+"Beto da Bandeira 2";"Antônio José Nicolau";"Compra drogas de"
+"Dalvan da Silva";"Antônio José Nicolau";"Compra drogas de"
+"Beto do Fusca";"Antônio José Nicolau";"Compra drogas de"
+"Caixote";"Antônio José Nicolau";"Compra drogas de"
+"Carlinho Nequinho";"Antônio José Nicolau";"Compra drogas de"
+"Carlinhos Caboclo";"Antônio José Nicolau";"Compra drogas de"
+"Carlinhos Pequeno";"Antônio José Nicolau";"Compra drogas de"
+"Carlos Gonçalvez";"Antônio José Nicolau";"Compra drogas de"
+"Corbil da Silva Lima";"Antônio José Nicolau";"Compra drogas de"
+"Carlos Augusto Matos de Medeiros";"Antônio José Nicolau";"Compra drogas de"
+"Edson Barros Rainha";"Antônio José Nicolau";"Compra drogas de"
+"José Rainha";"Antônio José Nicolau";"Compra drogas de"
+"Júlio Luiz Lopes Rodrigues";"Darcy da Silva Filho";"Fornece drogas para"
+"Darcy da Silva Filho";"Antônio José Nicolau";"Compra drogas de"
+"Zacarias Gonçalves Neto";"Antônio José Nicolau";"Compra drogas de"
+"Emilson dos Santos Fumero";"Antônio José Nicolau";"Compra drogas de"
+"Pedro Ribeiro";"Antônio José Nicolau";"Compra drogas de"
+"Eucir Barbosa Cordeiro";"Antônio José Nicolau";"Compra drogas de"
+"Eunice dos Santos Lemos";"Antônio José Nicolau";"Compra drogas de"
+"Gilberto Sebastião da Silva";"Antônio José Nicolau";"Compra drogas de"
+"Ivette da Silva Santos";"Antônio José Nicolau";"Compra drogas de"
+"Isaías da Costa Rodrigues";"Antônio José Nicolau";"Compra drogas de"
+"Jorge Ferreira de Almeida";"Antônio José Nicolau";"Compra drogas de"
+"Parrão";"Antônio José Nicolau";"Compra drogas de"
+"Hermínio dos Santos Rodrigues Filho";"Antônio José Nicolau";"Compra drogas de"
+"Paulo da Silva";"Antônio José Nicolau";"Compra drogas de"
+"Jorge Carpinteiro Santiago";"Antônio José Nicolau";"Compra drogas de"
+"Lorival";"Antônio José Nicolau";"Compra drogas de"
+"Paulo Roberto Faria";"Antônio José Nicolau";"Compra drogas de"
+"Valter José Maria";"Antônio José Nicolau";"Compra drogas de"
+"Adamato Soares";"Antônio José Nicolau";"Protege"
+"Almir Reis dos Santos";"Antônio José Nicolau";"Protege"
+"Amós Martins Belém";"Antônio José Nicolau";"Protege"
+"Constantito Melhen Haquim";"Antônio José Nicolau";"Protege"
+"Dirceu";"Antônio José Nicolau";"Protege"
+"Edson Luiz da Fonseca";"Antônio José Nicolau";"Protege"
+"Luiz Paulo Ferreira Medrado";"Antônio José Nicolau";"Protege"
+"Fausto Silva Pereira";"Antônio José Nicolau";"Protege"
+"Gilberto de Albuquerque Giliberti";"Antônio José Nicolau";"Protege"
+"Gilson Avelino de Souza";"Antônio José Nicolau";"Protege"
+"Jorge Félix dos Santos";"Antônio José Nicolau";"Protege"
+"Nagib Raad Restum";"Antônio José Nicolau";"Protege"
+"Osmar Severino";"Antônio José Nicolau";"Protege"
+"Paulo Ramos de Morais";"Antônio José Nicolau";"Protege"
+"Paulo Roque da Silva";"Antônio José Nicolau";"Protege"
+"Roberto Carlos Alves";"Antônio José Nicolau";"Protege"
+"Roberto Lopes de Oliveira";"Antônio José Nicolau";"Protege"
+"Sam - Barrão";"Antônio José Nicolau";"Protege"
+"Sérgio Moura Soares";"Antônio José Nicolau";"Protege"
+"Waldemar de Souza Araújo";"Antônio José Nicolau";"Protege"
+"Waldir Pepe Simões";"Antônio José Nicolau";"Protege"
+"Júlio Luiz Lopes Rodrigues";"Ivan da Costa Félix";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Almir Reis dos Santos";"Fornece drogas para"
+"Paulo César dos Reis Encina";"Marcos Peixoto de Athayde";"Fornece drogas para"
+"Sebastião Carlos Heringer";"Jurandir Gonçalves de Oliveira";"Fornece drogas para"
+"Jurandir Gonçalves de Oliveira";"Sebastião Carlos Heringer";"Fornece drogas para"
+"Osmar Severino";"Paulo Ramos de Morais";"Fornece drogas para"
+"Dalvan da Silva";"Paulo Ramos de Morais";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Aslan Pereira da Silva";"Fornece drogas para"
+"Jurandir Gonçalves de Oliveira";"Marcílio Ribeiro Cordeiro";"Fornece drogas para"
+"Marcílio Ribeiro Cordeiro";"Jurandir Gonçalves de Oliveira";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Zacarias Gonçalves Neto";"Fornece drogas para"
+"Júlio Luiz Lopes Rodrigues";"Pedro Ribeiro";"Fornece drogas para"
+"Hermínio dos Santos Rodrigues Filho";"Célio da Birosca do Tuiutí";"Fornece drogas para"
+"Luiz Augusto Passos Lourenço";"Marcus Valerius Klein";"Fornece drogas para"
+"Luiz Augusto Passos Lourenço";"Diste Antônio da Silva Neto";"Fornece drogas para"
+"Luiz Augusto Passos Lourenço";"Laerte Tirado de Carvalho";"Fornece drogas para"
+"Luiz Augusto Passos Lourenço";"Claudomiro Martins da Silva";"Fornece drogas para"
+"Miranda";"Luiz Paulo Ferreira Medrado";"Fornece drogas para"
+"Darcy da Silva Filho";"Antônio Carlos Coutinho";"Fornece drogas para"
+"Darcy da Silva Filho";"Antônio Carlos Gaspar";"Fornece drogas para"
+"Darcy da Silva Filho";"Napoleão";"Fornece drogas para"
+"Ayres Moreira";"Armênio Erthal Teixeira";"Fornece drogas para"
+"Ayres Moreira";"Márcia";"Fornece drogas para"
+"Ayres Moreira";"Palacete";"Fornece drogas para"
+"Almir Reis dos Santos";"Ayres Moreira";"Protege"
+"Amós Martins Belém";"Ayres Moreira";"Protege"
+"Carlos Augusto Matos de Medeiros";"Ayres Moreira";"Protege"
+"Fausto Silva Pereira";"Ayres Moreira";"Protege"
+"Gilberto de Albuquerque Giliberti";"Ayres Moreira";"Protege"
+"Luiz Carlos de Souza Batista";"Ayres Moreira";"Protege"
+"Constantito Melhen Haquim";"Ayres Moreira";"Protege"
+"Pica Pau";"Ângela Maria do Saturnino Braga";"Compra drogas de"
+"Pica Pau";"Luiz Carlos Rodrigues da Costa";"Compra drogas de"
+"Valter José Maria";"Antônio José Nicolau";"Compra drogas de"
+"Ivan da Costa Félix";"Antônio José Nicolau";"Compra drogas de"
+"Gilberto de Albuquerque Giliberti";"Carlinhos Caboclo";"Protege"
+"Antônio Pará";"Antônio José Nicolau";"Compra drogas de"
+"preso desconhecido";"Antônio José Nicolau";"Compra drogas de"
+"Aslan Pereira da Silva";"Antônio Carlos Coutinho";"Compra drogas de"
+"Jorge Luiz Alio Borges";"Antônio José Nicolau";"Protege"
+"Antônio José Nicolau";"Jorge Luiz Alio Borges";"Dá ordens para"
+"Constantito Melhen Haquim";"Jamil Sleiman Allan";"Protege"
+"Geraldo Dias dos Santos";"Ayres Moreira";"Protege"
+"Geraldo Dias dos Santos";"Sebastião Carlos Heringer";"Protege"
+"Almir Reis dos Santos";"Sebastião Carlos Heringer";"Protege"
+"Carlos Augusto Matos de Medeiros";"Antônio José Nicolau";"Protege"
+"Luiz Carlos de Souza Batista";"Luiz Augusto Passos Lourenço";"Protege"
+"Carlos Augusto Matos de Medeiros";"Ayres Moreira";"Protege"
+"Carlos Augusto Matos de Medeiros";"Sebastião Carlos Heringer";"Protege"
+"Luiz Carlos de Souza Batista";"Ayres Moreira";"Protege"
+"Luiz Augusto Passos Lourenço";"Sebastião Carlos Heringer";"Protege"
+"Luiz Augusto Passos Lourenço";"Antônio José Nicolau";"Protege"
+"João Vicente Ferreira";"Antônio José Nicolau";"Protege"
+"Dalvan da Silva";"Osmar Severino";"Trabalha com"
+"Constantito Melhen Haquim";"Gilson Avelino de Souza";"Trabalha com"
+"Gilson Avelino de Souza";"Constantito Melhen Haquim";"Trabalha com"
+"Marcus Valerius Klein";"Claudomiro Martins da Silva";"Trabalha com"
+"Laerte Tirado de Carvalho";"Claudomiro Martins da Silva";"Trabalha com"
+"Diste Antônio da Silva Neto";"Claudomiro Martins da Silva";"Trabalha com"
+"Laerte Tirado de Carvalho";"Diste Antônio da Silva Neto";"Trabalha com"
+"Diste Antônio da Silva Neto";"Laerte Tirado de Carvalho";"Trabalha com"
+"Constantito Melhen Haquim";"Waldemar de Souza Araújo";"Trabalha com"
+"Waldemar de Souza Araújo";"Constantito Melhen Haquim";"Trabalha com"
+"Constantito Melhen Haquim";"Gilberto de Albuquerque Giliberti";"Trabalha com"
+"Gilberto de Albuquerque Giliberti";"Constantito Melhen Haquim";"Trabalha com"
+"Roberto Carlos Alves";"Adamato Soares";"Trabalha com"
+"Adamato Soares";"Roberto Carlos Alves";"Trabalha com"
+"Roberto Carlos Alves";"Waldemar de Souza Araújo";"Trabalha com"
+"Waldemar de Souza Araújo";"Roberto Carlos Alves";"Trabalha com"
+"Roberto Carlos Alves";"Gilberto de Albuquerque Giliberti";"Trabalha com"
+"Gilberto de Albuquerque Giliberti";"Roberto Carlos Alves";"Trabalha com"
+"Adamato Soares";"Gilson Avelino de Souza";"Trabalha com"
+"Gilson Avelino de Souza";"Adamato Soares";"Trabalha com"
+"Adamato Soares";"Gilberto de Albuquerque Giliberti";"Trabalha com"
+"Gilberto de Albuquerque Giliberti";"Adamato Soares";"Trabalha com"
+"Cícero Borges dos Santos";"Valdeci Borges dos Santos";"Trabalha com"
+"Valdeci Borges dos Santos";"Cícero Borges dos Santos";"Trabalha com"
+"Manoel Messias Rosa dos Santos";"Cícero Borges dos Santos";"Trabalha com"
+"Cícero Borges dos Santos";"Manoel Messias Rosa dos Santos";"Trabalha com"
+"Sílvio Ferreira Filho";"Cícero Borges dos Santos";"Trabalha com"
+"Cícero Borges dos Santos";"Sílvio Ferreira Filho";"Trabalha com"
+"Manoel Messias Rosa dos Santos";"Sílvio Ferreira Filho";"Trabalha com"
+"Sílvio Ferreira Filho";"Manoel Messias Rosa dos Santos";"Trabalha com"
+"Sílvio Ferreira Filho";"Valdeci Borges dos Santos";"Trabalha com"
+"Valdeci Borges dos Santos";"Sílvio Ferreira Filho";"Trabalha com"
+"Luiz Ronaldo da Silva";"Denise Cristina Carregal Rangel";"Íntimo de"
+"Denise Cristina Carregal Rangel";"Luiz Ronaldo da Silva";"Íntimo de"
+"Cícero Borges dos Santos";"Valdeci Borges dos Santos";"Íntimo de"
+"Valdeci Borges dos Santos";"Cícero Borges dos Santos";"Íntimo de"
+"Cícero Borges dos Santos";"Manoel Messias Rosa dos Santos";"Íntimo de"
+"Manoel Messias Rosa dos Santos";"Cícero Borges dos Santos";"Íntimo de"
+"Edson Barros Rainha";"Juarez Calvelli";"Íntimo de"
+"Edson Barros Rainha";"José Rainha";"Íntimo de"
+"José Carlos dos Reis Encina";"Edson Barros Rainha";"Íntimo de"

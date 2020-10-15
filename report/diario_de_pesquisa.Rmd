@@ -1,0 +1,23 @@
+---
+title: "Diário de pesquisa"
+author: "David Maciel"
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE)
+```
+
+## Introdução
+
+Esse é um diário de pesquisa, para manter o registro das alterações feitas na base de dados, bem como para registrar reflexões sobre o projeto. O ponto de partida é a a planilha de vínculos criada a partir do relatório final e alguns depoimentos de indiciados na operação mosaico
+```{r}
+library(tidyverse)
+library(ott)
+edges <- read_csv2("data-raw/vínculos.csv")
+```
+## 11/10/2020
+
+
+
